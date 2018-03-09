@@ -1,5 +1,4 @@
 # Data
 Dataset/
 
-# Jupyter garbage
-.ipynb_checkpoints/
+.*
