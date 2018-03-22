@@ -1,5 +1,7 @@
 # Data
 Dataset/
+input*
+diff*
 
 .*
 __pycache__
